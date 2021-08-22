@@ -1,0 +1,87 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #e8f1ef;
+}
+
+.main {
+  position: relative;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  min-width: 300px;
+  border-radius: 50px;
+  box-shadow: 0 0 20px 5px #cccbcb;
+  color: #fff;
+}
+
+.container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  padding: 30px 10px;
+  background-color: #cfccf8;
+  background: linear-gradient(125deg, #b4b5e9 20%, #affd9b);
+  border-radius: 50px;
+}
+
+.time {
+  width: 100px;
+  align-self: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 500;
+  font-family: "Julius Sans One ";
+}
+
+.header {
+  align-self: center;
+  margin: 0px;
+  margin-top: 10px;
+  font-family: "Julius Sans One";
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 35px;
+}
+
+.buttons {
+  align-self: center;
+}
+
+.button {
+  padding: 7px 8px 7px 8px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: #f1faf8;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Julius Sans One";
+  cursor: pointer;
+}
+
+.button:hover {
+  opacity: 0.9;
+}
+
+.button:active {
+  opacity: 0.8;
+}
+
+.line {
+  height: 1px;
+  margin-bottom: 20px;
+  border-radius: 100px;
+  background-color: white;
+}
+
+.clock {
+  margin-top: 20px;
+  align-self: center;
+}
