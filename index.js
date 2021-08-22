@@ -73,8 +73,8 @@ setTimeout(function timer() {
     if(flag) {
         updateTime();
     } 
-    setTimeout(timer, 100);
-}, 100);
+    setTimeout(timer, 1000);
+}, 1000);
 
 reset.addEventListener('click', () => {
     flag = false
