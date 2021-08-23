@@ -12,4 +12,4 @@ Simple timer of seconds and minutes with arrows
 
 ### DEMO
 
-[Watch](https://varvaraborodina.github.io/stopwatch/)
+[Watch](https://varvaraborodina.github.io/arrow-timer/)
