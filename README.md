@@ -1,8 +1,8 @@
-# stopwatch
+# arrow timer
 
 ### DESCRIPTION
 
-Simple stopwatch of seconds and minutes with clock hands
+Simple timer of seconds and minutes with arrows
 
 ### TECHNOLOGIES
 
